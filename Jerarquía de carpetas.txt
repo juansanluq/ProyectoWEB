@@ -1,0 +1,6 @@
+public		Hojas de estilo CSS, Archivos JavaScript JS, Imágenes, fuentes, librerias JS y plugins
+config		Archivos PHP de configuración general y conexión a la base de datos
+files		Archivos cargados en el sistema por el usuario: imágenes jpg, png, gif, pdf
+modelos		Archivos PHP con las instrucciones para insertar, editar, eliminar, listar y buscar registros de las diferentes tablas
+ajax		Archivos PHP que van a retornar valores a las peticiones ajax que referencien
+vistas		Interface HTML, archivos JavaScript de consultas dinámicas, reportes
